@@ -1,0 +1,2 @@
+# Dynamic_Face_Detection
+ Dynamic face detection can be a crucial component for implementing an automated class attendance system using Python.This implementation provides a basic structure for dynamic face detection during a class session. Depending on your specific requirements, you can enhance the system with additional features such as face recognition, attendance logging, and real-time monitoring.
